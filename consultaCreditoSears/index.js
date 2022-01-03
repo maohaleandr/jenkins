@@ -1,5 +1,5 @@
 const { exit } = require('process');
-const newman = require('C:/Users/ksolis/AppData/Roaming/npm/node_modules/newman');
+const newman = require('C:/Users/lediez/AppData/Roaming/npm/node_modules/newman');
 var code = "";
 var results = [];
 
